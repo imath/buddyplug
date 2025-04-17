@@ -1,6 +1,8 @@
 BuddyPlug
 =========
 
+**BuddyPlug is no more maintained and has been archived.**
+
 BuddyPlug is inspired by Tom McFarlin [WordPress plugin boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate). This is the template i will use to build my next BuddyPress plugins. Feel free to use, and contribute to it :)
 
 Available in french and english. 
